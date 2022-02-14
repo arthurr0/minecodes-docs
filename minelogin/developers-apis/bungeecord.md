@@ -8,7 +8,7 @@ Maven configuration
 <repositories>
     <repository>
         <id>mineCodes-repo</id>
-        <url>https://repo.minecodes.pl/</url>
+        <url>https://repository.minecodes.pl/</url>
     </repository>
 </repositories>
 ```
