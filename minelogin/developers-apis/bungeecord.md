@@ -5,12 +5,11 @@ Maven configuration
 #### Repository
 
 ```xml
-<repositories>
-    <repository>
-        <id>mineCodes-repo</id>
-        <url>https://repository.minecodes.pl/</url>
-    </repository>
-</repositories>
+<repository>
+  <id>minecodes-repository-releases</id>
+  <name>mineCodes Organization</name>
+  <url>https://repository.minecodes.pl/releases</url>
+</repository>
 ```
 
 #### Dependency
@@ -19,7 +18,7 @@ Maven configuration
 <dependency>
     <groupId>pl.minecodes.minelogin</groupId>
     <artifactId>bungee-api</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
 </dependency>
 ```
 
@@ -29,4 +28,3 @@ Maven configuration
 * UserPreLoginEvent
 * UserPreRegisterEvent
 * UserPreUnregisterEvent
-

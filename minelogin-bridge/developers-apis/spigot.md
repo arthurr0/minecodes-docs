@@ -5,12 +5,11 @@
 > Repository
 
 ```xml
-<repositories>
-    <repository>
-        <id>mineCodes-repo</id>
-        <url>https://repo.minecodes.pl/</url>
-    </repository>
-</repositories>
+<repository>
+  <id>minecodes-repository-releases</id>
+  <name>mineCodes Organization</name>
+  <url>https://repository.minecodes.pl/releases</url>
+</repository>
 ```
 
 > Dependency
