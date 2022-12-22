@@ -1,5 +1,7 @@
 ---
 description: Hi, here you can find all premium plugins documentation created by mineCodes.
+cover: .gitbook/assets/banner (1).png
+coverY: 0
 layout: landing
 ---
 
@@ -16,4 +18,3 @@ layout: landing
 {% hint style="info" %}
 Join our [discord ](https://discord.gg/37NXPX7tdc)server to receive licenses after buying one of our plugins. You can find detailed information about the license system [here](minelogin/configuration/license-key.md).
 {% endhint %}
-
