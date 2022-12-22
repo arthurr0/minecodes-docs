@@ -35,3 +35,18 @@
   * [🖨 Server selector](minelogin-bridge/configuration/server-selector.md)
 * [📄 Developers API's](minelogin-bridge/developers-apis/README.md)
   * [📔 Spigot](minelogin-bridge/developers-apis/spigot.md)
+
+## 🏠 minePlots
+
+* [⚙ Configuration](mineplots/configuration.md)
+* [📝 Developers API's](mineplots/developers-apis.md)
+
+## 🐮 minespawners
+
+* [⚙ Configuration](minespawners/configuration.md)
+* [📝 Developers API's](minespawners/developers-apis.md)
+
+## 🎮 minedeposit
+
+* [⚙ Configuration](minedeposit/configuration.md)
+* [📝 Developers API's](minedeposit/developers-apis.md)
