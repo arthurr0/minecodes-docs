@@ -1,6 +1,6 @@
 ---
 description: Here you can find all documentations for plugins.
-cover: .gitbook/assets/4k-programming-orange-hello-world-poster-j8ysx6aovohxxqp5.jpg
+cover: .gitbook/assets/dashboard.png
 coverY: 0
 layout: landing
 ---
