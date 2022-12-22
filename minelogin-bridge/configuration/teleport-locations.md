@@ -5,11 +5,11 @@ description: Here you can set the location of the hub
 # 🎥 Teleport locations
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) It allows you to set the teleportation location when you enter your server, and you can also configure the location for logging in.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> It allows you to set the teleportation location when you enter your server, and you can also configure the location for logging in.
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Umożliwia ustalenie lokalizacji teleportacji po wejściu na twój serwer oraz również możesz skonfigurować lokalizacje do logowania.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Umożliwia ustalenie lokalizacji teleportacji po wejściu na twój serwer oraz również możesz skonfigurować lokalizacje do logowania.
 {% endhint %}
 
 ```yaml

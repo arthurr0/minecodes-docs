@@ -1,11 +1,11 @@
 # 📶 Server ping & MOTD
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) Allows you to set custom motd and server ping in minecraft main menu. You can also use hex colors using the `<#xxxxxx>` format or use a gradient by typing `<gradient:#xxxxxx:#yyyyy>`
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> Allows you to set custom motd and server ping in minecraft main menu. You can also use hex colors using the `<#xxxxxx>` format or use a gradient by typing `<gradient:#xxxxxx:#yyyyy>`
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Pozwala ustawić customowe motd oraz server ping w głównym menu minecrafta. Możesz również użyć kolorów hex używając formatu `<#xxxxxx>` lub użyć gradientu wpisując `<gradient:#xxxxxx:#yyyyyy>`
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Pozwala ustawić customowe motd oraz server ping w głównym menu minecrafta. Możesz również użyć kolorów hex używając formatu `<#xxxxxx>` lub użyć gradientu wpisując `<gradient:#xxxxxx:#yyyyyy>`
 {% endhint %}
 
 ```yaml

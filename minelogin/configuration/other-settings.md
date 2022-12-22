@@ -1,11 +1,11 @@
 # ⚙ Other settings
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) Here you can configure other settings such as whether captcha should be enabled, where it should be displayed, whether the lobby command should work or the login time
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> Here you can configure other settings such as whether captcha should be enabled, where it should be displayed, whether the lobby command should work or the login time
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) W tym miejscu możesz skonfigurować inne ustawienia: np. czy captcha ma być włączona, gdzie ma się wyświetlać, czy komenda lobby ma działać lub czas logowania
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> W tym miejscu możesz skonfigurować inne ustawienia: np. czy captcha ma być włączona, gdzie ma się wyświetlać, czy komenda lobby ma działać lub czas logowania
 {% endhint %}
 
 ```yaml

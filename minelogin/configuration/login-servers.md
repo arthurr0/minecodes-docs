@@ -1,11 +1,11 @@
 # 🪃 Login servers
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) This function allows you to specify the server on which players will log in, whether the server should be automatically activated after restart or to which server it should move after the player logs in
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> This function allows you to specify the server on which players will log in, whether the server should be automatically activated after restart or to which server it should move after the player logs in
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Funkcja ta pozwala ustalić serwer na którym będą logować się gracze, czy serwer ma się automatycznie włączać po restarcie lub na jaki serwer ma przenosić po zalogowaniu.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Funkcja ta pozwala ustalić serwer na którym będą logować się gracze, czy serwer ma się automatycznie włączać po restarcie lub na jaki serwer ma przenosić po zalogowaniu.
 {% endhint %}
 
 ```yaml

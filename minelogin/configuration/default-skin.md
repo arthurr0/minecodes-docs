@@ -1,11 +1,11 @@
 # 🎥 Default skin
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) This function allows you to specify the default skin for non-premium players when they join the server. Specify the texture of the skin and its signature.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> This function allows you to specify the default skin for non-premium players when they join the server. Specify the texture of the skin and its signature.
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Funkcja pozwala ustalić, jaki domyślny skin otrzymają gracze non-premium po wejściu na serwer. Należy podać teksturę skina oraz jego sygnaturę.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Funkcja pozwala ustalić, jaki domyślny skin otrzymają gracze non-premium po wejściu na serwer. Należy podać teksturę skina oraz jego sygnaturę.
 {% endhint %}
 
 ```yaml

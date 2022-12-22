@@ -1,11 +1,11 @@
 # 📂 Cache systems
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) This section allows you to configure user caching. What is caching? Caching is a plugin cache. It saves for example player session time.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> This section allows you to configure user caching. What is caching? Caching is a plugin cache. It saves for example player session time.
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Ten punkt umożliwia konfiguracje cachowania użytkowników. Czym jest cachowanie? Cachowanie to inaczej pamięć podręczna pluginu. Zapisują on np. czas sesji gracza..
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Ten punkt umożliwia konfiguracje cachowania użytkowników. Czym jest cachowanie? Cachowanie to inaczej pamięć podręczna pluginu. Zapisują on np. czas sesji gracza..
 {% endhint %}
 
 ```yaml

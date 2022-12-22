@@ -1,11 +1,11 @@
 # 🖨 Notifications title
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) Do you want on-screen captions to appear when you try to log in, register or have a premium session? Configure this option!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> Do you want on-screen captions to appear when you try to log in, register or have a premium session? Configure this option!
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Chcesz aby podczas próby zalogowania, rejestracji lub sesji premium pojawiały się napisy na ekranie? Skonfiguruj tą opcje!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Chcesz aby podczas próby zalogowania, rejestracji lub sesji premium pojawiały się napisy na ekranie? Skonfiguruj tą opcje!
 {% endhint %}
 
 ```yaml

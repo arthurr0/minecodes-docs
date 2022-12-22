@@ -1,11 +1,11 @@
 # ⏳ Authorization API
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) In this function you can specify which API the premium checking system will use
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> In this function you can specify which API the premium checking system will use
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) W tej funkcji możesz ustalić z jakiego API będzie korzystać system sprawdzania kont graczy premium
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> W tej funkcji możesz ustalić z jakiego API będzie korzystać system sprawdzania kont graczy premium
 {% endhint %}
 
 ```yaml

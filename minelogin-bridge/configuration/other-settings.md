@@ -5,11 +5,11 @@ description: Settings for assigning effects or hiding players
 # ⚙ Other settings
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) In this section you will find options to configure if the plugin should hide player's items before login, if it should hide players or if it should get a blidness effect
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> In this section you will find options to configure if the plugin should hide player's items before login, if it should hide players or if it should get a blidness effect
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) W tym punkcie znajdziesz opcje do konfiguracji czy plugin ma ukrywać przedmioty gracza przed zalogowaniem, czy ma ukrywać graczy lub czy ma otrzymać efekt blidness
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> W tym punkcie znajdziesz opcje do konfiguracji czy plugin ma ukrywać przedmioty gracza przed zalogowaniem, czy ma ukrywać graczy lub czy ma otrzymać efekt blidness
 {% endhint %}
 
 ```yaml

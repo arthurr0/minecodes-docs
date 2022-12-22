@@ -3,11 +3,11 @@
 {% tabs %}
 {% tab title="BungeeCord & Velocity" %}
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) The first run of the plugin will create the configuration files in the folder `plugins/mineLogin`. When you first start the server with mineLogin plugin, the server will be disabled. Next step is license key before next run server. Check out the tab below for more information!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> The first run of the plugin will create the configuration files in the folder `plugins/mineLogin`. When you first start the server with mineLogin plugin, the server will be disabled. Next step is license key before next run server. Check out the tab below for more information!
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Przy pierwszym uruchomieniu pluginu zostaną utworzone pliki konfiguracyjne w folderze `plugins/mineLogin`. Serwer zostanie automatycznie wyłączony. Następnym krokiem będzie wpisanie klucze licencyjnego oraz ponowne uruchomienie serwera. Więcej informacji znajdziesz w zakładce poniżej!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Przy pierwszym uruchomieniu pluginu zostaną utworzone pliki konfiguracyjne w folderze `plugins/mineLogin`. Serwer zostanie automatycznie wyłączony. Następnym krokiem będzie wpisanie klucze licencyjnego oraz ponowne uruchomienie serwera. Więcej informacji znajdziesz w zakładce poniżej!
 {% endhint %}
 {% endtab %}
 
@@ -29,9 +29,9 @@
 {% embed url="https://www.youtube.com/watch?v=jFkyQPfm45U" %}
 
 {% hint style="danger" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) In this video there is an old version of mineLogin plugin. An updated video on how to set it up will be posted soon!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> In this video there is an old version of mineLogin plugin. An updated video on how to set it up will be posted soon!
 {% endhint %}
 
 {% hint style="danger" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Na tym filmie znajduje się się stara wersja pluginu mineLogin. Niedługo zostanie opublikowany zaktualizowany film dotyczący jego konfiguracji!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Na tym filmie znajduje się się stara wersja pluginu mineLogin. Niedługo zostanie opublikowany zaktualizowany film dotyczący jego konfiguracji!
 {% endhint %}

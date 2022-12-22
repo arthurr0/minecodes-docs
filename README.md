@@ -4,6 +4,8 @@ description: Hi, here you can find all premium plugins documentation created by 
 
 # 🖐 Welcome!
 
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="minelogin-bridge/developers-apis/">developers-apis</a></td><td><a href="minelogin-bridge/configuration/initial-configuration.md">initial-configuration.md</a></td><td align="center">Advanced authentication system for paid and cracked players. (Bungee/Velocity)</td><td><a href=".gitbook/assets/logo-login.png">logo-login.png</a></td></tr><tr><td></td><td></td><td align="center"></td><td></td></tr></tbody></table>
+
 ## :tada: <mark style="color:blue;">Where can I purchase plugins?</mark>
 
 {% hint style="info" %}

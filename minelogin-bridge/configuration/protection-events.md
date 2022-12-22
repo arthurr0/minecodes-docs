@@ -5,11 +5,11 @@ description: Configuring blocked interactions on your lobby server
 # ⏰ Protection events
 
 {% hint style="danger" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) To unlock all blocked interactions, grant the `sminelogin.protection.bypass` permissions for the player in question.
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> To unlock all blocked interactions, grant the `sminelogin.protection.bypass` permissions for the player in question.
 {% endhint %}
 
 {% hint style="danger" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Aby odblokować wszystkie zablokowane interakcje, należy nadać dla danego gracza permisje `sminelogin.protection.bypass`
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Aby odblokować wszystkie zablokowane interakcje, należy nadać dla danego gracza permisje `sminelogin.protection.bypass`
 {% endhint %}
 
 ```yaml

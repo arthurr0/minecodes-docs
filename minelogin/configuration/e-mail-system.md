@@ -1,11 +1,11 @@
 # 📧 E-Mail system
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) This feature allows you to send custom mails to other players on the server to recover your password
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> This feature allows you to send custom mails to other players on the server to recover your password
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Ta funkcja umożliwia wysyłanie customowych maili do innych graczy serwera którzy w celu odzyskania hasła je otrzymują
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Ta funkcja umożliwia wysyłanie customowych maili do innych graczy serwera którzy w celu odzyskania hasła je otrzymują
 {% endhint %}
 
 ```yaml

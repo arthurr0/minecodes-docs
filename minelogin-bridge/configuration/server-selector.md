@@ -4,9 +4,9 @@ description: Allows you to configure the server election gui by the player
 
 # 🖨 Server selector
 
-> ![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) Here you can configure the server election gui. Whether it should be enabled, how many slots it should have, what should be displayed, where should it redirect to, what should be the background, what attributes should the displayed item or the slot it should appear on have.\
+> <img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> Here you can configure the server election gui. Whether it should be enabled, how many slots it should have, what should be displayed, where should it redirect to, what should be the background, what attributes should the displayed item or the slot it should appear on have.\
 > \
-> ![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) W tym miejscu możesz skonfigurować gui wyborów serwerów. Czy ma być ono włączone, ila ma mieć slotów, co ma się wyświetlać, gdzie ma przekierowywać, z czego będzie wypełnione tło, jakie atrybuty będzie posiadał wyświetlany przedmiot lub slot na którym będzie się pojawiał.
+> <img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> W tym miejscu możesz skonfigurować gui wyborów serwerów. Czy ma być ono włączone, ila ma mieć slotów, co ma się wyświetlać, gdzie ma przekierowywać, z czego będzie wypełnione tło, jakie atrybuty będzie posiadał wyświetlany przedmiot lub slot na którym będzie się pojawiał.
 
 ```yaml
 #PL: Konfiguracja GUI wyboru serwerów.

@@ -1,11 +1,11 @@
 # 🎈 Bossbar settings
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) Sets the bossbar's functions when logging in or setting a password. You can set its color, options or messages
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> Sets the bossbar's functions when logging in or setting a password. You can set its color, options or messages
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Ustawia funkcje bossbara podczas logowania lub ustalania hasła. Możesz w nim ustawić jego kolor, opcje lub wiadomości
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Ustawia funkcje bossbara podczas logowania lub ustalania hasła. Możesz w nim ustawić jego kolor, opcje lub wiadomości
 {% endhint %}
 
 ```yaml

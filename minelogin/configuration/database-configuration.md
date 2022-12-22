@@ -1,11 +1,11 @@
 # 📑 Database configuration
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) The **mineLogin** plugin contains two types of data storage. This is MySQL and Flat
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> The **mineLogin** plugin contains two types of data storage. This is MySQL and Flat
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Plugin **mineLogin** zawiera dwa rodzaje zapisu danych. Jest to zapis MySQL oraz Flat&#x20;
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Plugin **mineLogin** zawiera dwa rodzaje zapisu danych. Jest to zapis MySQL oraz Flat&#x20;
 {% endhint %}
 
 > **Section in config MySQL Database:**
@@ -59,10 +59,10 @@ database:
 ```
 
 {% hint style="warning" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) This database type doesn't require any configuration, it's default from the first plugin launch. This type saves users in `plugins/mineLogin/usersData` folder, it is not recommended when creating larger server (+50 Players)
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> This database type doesn't require any configuration, it's default from the first plugin launch. This type saves users in `plugins/mineLogin/usersData` folder, it is not recommended when creating larger server (+50 Players)
 {% endhint %}
 
 {% hint style="warning" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) Ten typ bazy danych nie wymaga żadnej konfiguracji, jest on domyślny od pierwszego uruchomienia pluginu. Typ ten zapisuje użytkowników w folderze `/plugins/mineLogin/usersData`, nie jest on zalecany podczas tworzenia większych serwerów (+50 Graczy)
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> Ten typ bazy danych nie wymaga żadnej konfiguracji, jest on domyślny od pierwszego uruchomienia pluginu. Typ ten zapisuje użytkowników w folderze `/plugins/mineLogin/usersData`, nie jest on zalecany podczas tworzenia większych serwerów (+50 Graczy)
 {% endhint %}
 

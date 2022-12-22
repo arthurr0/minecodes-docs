@@ -1,11 +1,11 @@
 # ⏳ Passwords security
 
 {% hint style="info" %}
-![🇺🇸](https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg) In this section you can set how passwords should be encoded, which passwords are disabled or the minimum length of the password!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" alt="🇺🇸" data-size="line"> In this section you can set how passwords should be encoded, which passwords are disabled or the minimum length of the password!
 {% endhint %}
 
 {% hint style="info" %}
-![🇵🇱](https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg) W tym punkcie możesz ustawić w jaki sposób mają być kodowane hasła, jakie hasła są wyłączone lub jaką długość minimalnie powinno mieć hasło!
+<img src="https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg" alt="🇵🇱" data-size="line"> W tym punkcie możesz ustawić w jaki sposób mają być kodowane hasła, jakie hasła są wyłączone lub jaką długość minimalnie powinno mieć hasło!
 {% endhint %}
 
 ```yaml
