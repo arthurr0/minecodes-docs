@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 Dashboard](README.md)
+* [Dashboard](README.md)
 
 ## 🔐 mineLogin
 
