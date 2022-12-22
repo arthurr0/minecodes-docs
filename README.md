@@ -1,6 +1,6 @@
 ---
 description: Hi, here you can find all premium plugins documentation created by mineCodes.
-cover: .gitbook/assets/banner (1).png
+cover: .gitbook/assets/4k-programming-orange-hello-world-poster-j8ysx6aovohxxqp5.jpg
 coverY: 0
 layout: landing
 ---
