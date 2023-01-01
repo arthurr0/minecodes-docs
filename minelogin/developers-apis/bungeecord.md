@@ -1,6 +1,6 @@
-# 📙 BungeeCord
+# Bungeecord
 
-Maven configuration
+### Maven configuration
 
 #### Repository
 
