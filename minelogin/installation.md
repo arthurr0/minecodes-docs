@@ -14,7 +14,7 @@ To increase security, we recommend installing the [**BungeeGuard** ](https://www
 
 ### <mark style="color:blue;">Uploading files</mark>
 
-You must choose the appropriate files to upload to your servers. On the proxy server (_**Velocity**_ or _**Bungeecord**_), you should upload a file that has the name of your engine in the file name, e.g. _**mineLogin-1.5.1-velocity-public.jar**_. On the lobby servers, you should upload the file _**mineLogin-1.5.1-spigot-bridge.jar**_.
+You must choose the appropriate files to upload to your servers. On the proxy server (_**Velocity**_ or _**Bungeecord**_), you should upload a file that has the name of your engine in the file name, e.g. _**mineLogin-1.5.1-velocity-public.jar**_. On the lobby servers, you should upload the file _**mineLogin-1.5.1-spigot-bridge.jar**_. To get the bridge on the lobby server to work, you should also upload the [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) **** plugin.
 
 ### <mark style="color:blue;">First start-up</mark>
 
