@@ -4,6 +4,7 @@
 
 ## 🔐 mineLogin
 
+* [🛠 Installation](minelogin/installation.md)
 * [⚙ Configuration](minelogin/configuration/README.md)
   * [⚒ Initial startup](minelogin/configuration/initial-startup.md)
   * [📃 License key](minelogin/configuration/license-key.md)
