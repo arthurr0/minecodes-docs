@@ -24,6 +24,6 @@ During the first start-up of the proxy server, the plugin will automatically shu
 
 In the initial configuration, you should only focus on the plugin that was uploaded to the proxy server (_**Velocity**_** ** or _**Bungeecord**_). In the plugins folder, find the folder named **mineLogin** and then open the file **configuration.yml** located in that folder.&#x20;
 
-As the first point, you should provide your license that you received from mineCodes, find the field **license:** and fill it in with your key.&#x20;
+As the first point, you should provide your license that you received from mineCodes, find the field **license-key:** and fill it in with your key.&#x20;
 
-Then you should decide which database you want to use, we have 4 different types of databases (_FLAT, H2, MYSQL, MONGODB_), the first three types of databases are saved in files on the server and do not require any login information.
+Then you should decide which database you want to use, we have 4 different types of databases (_FLAT, H2, MYSQL, MONGODB_), the first two types of databases are saved in files on the server and do not require any login information.

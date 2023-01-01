@@ -1,4 +1,4 @@
-# 📘 Velocity
+# Velocity
 
 ### Maven configuration
 

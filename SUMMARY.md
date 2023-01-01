@@ -11,8 +11,8 @@
 
 ## 🏠 minePlots
 
-* [⚙ Configuration](mineplots/configuration.md)
-* [📝 Developers API's](mineplots/developers-apis.md)
+* [🛠 Installation](mineplots/installation.md)
+* [📝 Developers](mineplots/developers.md)
 
 ## 🐮 minespawners
 
