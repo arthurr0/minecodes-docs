@@ -16,10 +16,10 @@
 
 ## 🐮 minespawners
 
-* [⚙ Configuration](minespawners/configuration.md)
-* [📝 Developers API's](minespawners/developers-apis.md)
+* [🛠 Installation](minespawners/installation.md)
+* [📝 Developers](minespawners/developers.md)
 
 ## 🎮 minedeposit
 
-* [⚙ Configuration](minedeposit/configuration.md)
-* [📝 Developers API's](minedeposit/developers-apis.md)
+* [🛠 Installation](minedeposit/installation.md)
+* [📝 Developers](minedeposit/developers.md)
