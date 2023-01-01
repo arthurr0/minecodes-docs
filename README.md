@@ -14,5 +14,5 @@ layout: landing
 {% endhint %}
 
 {% hint style="info" %}
-Join our [discord ](https://discord.gg/37NXPX7tdc)server to receive licenses after buying one of our plugins. You can find detailed information about the license system [here](broken-reference).
+Join our [discord ](https://discord.gg/37NXPX7tdc)server to receive licenses after buying one of our plugins. You can find detailed information about the license system [here](minelogin/configuration/license-key.md).
 {% endhint %}
